@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a PhD student at the Laboratory of Cytogenetics, Molecular Genetics, and Biology of Reproduction at CHU Farhat Hached Sousse. My research journey is centered around the captivating realm of genetic rare disorders, where I strive to illuminate the intricate complexities and unveil the underlying genetic mechanisms contributing to these conditions
+Bioinformatician with a solid foundation in molecular biology and data science. I am passionate about the analysis and interpretation of large-scale biological data. Through my academic training, I have gained strong skills in molecular biology, programming (Python, R), omics data analysis (genomics, transcriptomics), as well as artificial intelligence applied to healthcare. Curious, meticulous, and always eager to learn, I am particularly interested in innovations in digital health and the use of algorithmic approaches to address biomedical challenges.
 
 
 ## 🌐 Socials:
